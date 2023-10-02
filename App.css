@@ -13,7 +13,7 @@ main{
 
 .header{
   display: flex;
-  align-items: left;
+  align-items: right;
   justify-content: space-between;
   background: linear-gradient(120deg, purple, plum);
   color: #fff;
